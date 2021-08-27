@@ -7,6 +7,7 @@
 body{
   font-family: 'Lora', serif;
   letter-spacing: 1px;
+  min-width: 100vw;
 }
 
 a {
@@ -16,7 +17,6 @@ a {
 
 /* Container */
 .container {
-  min-width: 100vw;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
@@ -31,6 +31,7 @@ a {
 .description {
   margin-bottom: 1.2rem;
   font-size: large;
+  color: #333333;
 }
 
 .input {
@@ -46,6 +47,7 @@ a {
   display: block;
   font-size: large;
   font-weight: 600;
+  color: #333333;
 }
 
 
@@ -74,6 +76,7 @@ a {
     margin: 1rem 0;
     font-size: x-large;
     font-weight: 500;
+    color: #333333;
 }
 
 th,
@@ -94,6 +97,7 @@ td {
 
 .footer-heading {
   font-size: large;
+  color: #333333;
 }
 
 ul {
