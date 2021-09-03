@@ -8,7 +8,9 @@ A cash register manager which helps the user by telling how can he/she return th
 
 ## 🔗 Live Project link
 
-Click here :- https://cash-register-manager-1.netlify.app/
+Click here - 👇 👇 👇 👇 👇
+
+https://cash-register-manager-1.netlify.app/
 
 
 ## How to use:
